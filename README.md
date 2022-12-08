@@ -3,7 +3,9 @@
 In this analysis we will be using Tableau to visualize bike-sharing data.
 
 Resources required: 
+
      - 201908-citibike-tripdata csv File- We will use Pandas to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time          in hours and minutes. Then we export the DataFrame as a CSV file to use for the visualizations in Deliverable 2
+     
      - Tableau Public- In Tableau Public, we will create Visualizations for the Trip Analysis.
      
 ### The purpose of the analysis:

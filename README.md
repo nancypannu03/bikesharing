@@ -1,5 +1,12 @@
 # bikesharing
 ## Overview of the statistical analysis:
+
+[NYC_Citibike_Challenge ipynb File](NYC_Citibike_Challenge.ipynb)
+
+[link to dashboard](https://public.tableau.com/app/profile/kushal.pannu/viz/Bikesharing_16704710757740/BikeSharingDashboard?publish=yes)
+
+[link to Story](LINK GOES HERE "https://public.tableau.com/app/profile/kushal.pannu/viz/Bikesharing_Story_16704714153730/BikesharingStory?publish=yes")
+
 In this analysis we will be using Tableau to visualize bike-sharing data.
 
 Resources required: 
@@ -21,6 +28,7 @@ There is a description of the results for each visualization (7 pt)
 
 
 ### Deliverable 1: Change Trip Duration to a Datetime Format
+
 ### Create Visualizations for the Trip Analysis
 #### How long bikes are checked out for all riders and genders.
 #### How many trips are taken by the hour for each day of the week, for all riders and genders.

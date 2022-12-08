@@ -99,7 +99,7 @@ There is a description of the results for each visualization (7 pt)
 
 ![Test Image](/Resources/Checkout_Times_by_Gender.png)
 
-       - In this Vicualization, we will check the checked out time of the bike for all the genders.
+       - In this Visualization, we will check the checked out time of the bike for all the genders.
        - The image depicts that the tripduration of female( 6 minutes) is more than the male(5 minutes)
        
 #### 2. How many trips are taken by the hour for each day of the week, for all riders and genders.
@@ -128,3 +128,7 @@ There is a description of the results for each visualization (7 pt)
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
 
+     - The image represents that majority of the bike rides lasted for 5 minutes.
+     - The image depicts that the tripduration of female( 6 minutes) is more than the male(5 minutes)
+     - The Image depicts that , there are more number of bike trips during the weekend than during the weekdays and there are more number of trips from 1pm                to 6 pm as comparate to the rest of the hours of the day.
+     - This image illustrates that the male subscribers are more likely to check out a bike during weekdays.

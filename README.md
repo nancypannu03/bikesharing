@@ -88,16 +88,23 @@ There is a description of the results for each visualization (7 pt)
        # 5. Export the Dataframe as a new CSV file without the index.
        citibike_data.to_csv('citibike.csv', index= False)
        
-       
-       
-   
-
-
-
 ### Create Visualizations for the Trip Analysis
-#### How long bikes are checked out for all riders and genders.
-#### How many trips are taken by the hour for each day of the week, for all riders and genders.
-#### A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+#### 1. How long bikes are checked out for all riders and genders.
+![Test Image](/Resources/Checkout_Times_for_Users.png)
+
+![Test Image](/Resources/Checkout_Times_by_Gender.png)
+
+#### 2. How many trips are taken by the hour for each day of the week, for all riders and genders.
+
+![Test Image](/Resources/Trips_by_Weekday_per_Hour.png)
+
+![Test Image](/Resources/Trips_by_Gender.png)
+
+#### 3. A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+![Test Image](/Resources/User_Trips_by_Gender_by_Weekday.png)
+
 
 
 ## Summary:

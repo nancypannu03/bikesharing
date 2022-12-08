@@ -134,3 +134,11 @@ There is a description of the results for each visualization (7 pt)
    - The [User Trips by Gender by Weekday](Resources/User_Trips_by_Gender_by_Weekday.png) illustrates that the male subscribers are more likely to check out a            bike during weekdays.
      
 ### Two additional visualizations are suggested for future analysis 
+  - Which Bikes Are Most Likely Due for Repair- we'll need to determine which bikes have the highest sum of "Number of Rides".
+
+![Test Image](/Resources/Bike_Repairs.png)
+
+  - Bike Utilization- We will view the total usage time per bike, as well as which bikes are used the most frequently, which will give us insight into which bikes       may need repairs.
+
+![Test Image](/Resources/Bike_Utilization.png)
+    

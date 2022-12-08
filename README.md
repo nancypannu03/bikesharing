@@ -126,9 +126,11 @@ There is a description of the results for each visualization (7 pt)
 
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
+### Summary of the results:
 
-     - The image represents that majority of the bike rides lasted for 5 minutes.
-     - The image depicts that the tripduration of female( 6 minutes) is more than the male(5 minutes)
-     - The Image depicts that , there are more number of bike trips during the weekend than during the weekdays and there are more number of trips from 1pm                to 6 pm as comparate to the rest of the hours of the day.
-     - This image illustrates that the male subscribers are more likely to check out a bike during weekdays.
+     - The [Checkout Times for Users](Resources/Checkout_Times_for_Users.png) image represents that majority of the bike rides lasted for 5 minutes.
+     - The [Checkout Times by Gender](Resources/Checkout_Times_by_Gender.png) Visualization depicts that the tripduration of female( 6 minutes) is more than the            male(5 minutes)
+     - The [Trips by Gender (Weekday per Hour)[](Resources/Trips_by_Gender.png) Visualization worksheet depicts that , there are more number of bike trips during          the weekend than during the weekdays and there are more number of trips from 1pm to 6 pm as comparate to the rest of the hours of the day.
+     - The [User Trips by Gender by Weekday](Resources/User_Trips_by_Gender_by_Weekday.png) illustrates that the male subscribers are more likely to check out a            bike during weekdays.
+     
+### Two additional visualizations are suggested for future analysis 

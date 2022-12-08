@@ -5,7 +5,7 @@
 
 [link to dashboard](https://public.tableau.com/app/profile/kushal.pannu/viz/Bikesharing_16704710757740/BikeSharingDashboard?publish=yes)
 
-[link to Story](LINK GOES HERE "https://public.tableau.com/app/profile/kushal.pannu/viz/Bikesharing_Story_16704714153730/BikesharingStory?publish=yes")
+[link to Story]("https://public.tableau.com/app/profile/kushal.pannu/viz/Bikesharing_Story_16704714153730/BikesharingStory?publish=yes")
 
 In this analysis we will be using Tableau to visualize bike-sharing data.
 
